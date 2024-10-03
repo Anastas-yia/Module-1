@@ -1,4 +1,4 @@
-my_string = input('Собака - друг ')
+my_string = input('Меня можно описать двумя словами: ')
 print(len(my_string))
 print(my_string.upper())
 print(my_string.lower())
